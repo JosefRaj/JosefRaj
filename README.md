@@ -2,7 +2,7 @@
 
 M.Sc. student in Communications and Multimedia Engineering at FAU Erlangen-Nürnberg, with a B.Sc. in Electrical Engineering — Telecommunications.
 
-I build reproducible engineering projects across digital communications, signal processing, applied machine learning, sensor analytics and electronics testing. In an AI-enabled engineering environment, I treat cross-domain breadth as a force multiplier: it helps me frame the right problem, connect hardware, signals, software and data, and critically validate AI-assisted results while going deep where the task requires it.
+I build reproducible engineering projects across digital communications, signal, image and video processing, applied machine learning, sensor analytics and electronics testing. In an AI-enabled engineering environment, I treat cross-domain breadth as a force multiplier: it helps me frame the right problem, connect hardware, signals, software and data, and critically validate AI-assisted results while going deep where the task requires it.
 
 I am seeking working-student, internship and graduate opportunities in the Erlangen–Nürnberg area.
 
@@ -20,7 +20,7 @@ Python · NumPy · Pandas · SQL/SQLite · TensorFlow/Keras · MATLAB · C · Gi
 
 ## Focus areas
 
-Digital communications · OFDM/MIMO · Channel estimation · Signal processing · Machine learning · Time-series analytics · Electronics testing · Reproducible engineering
+Digital communications · OFDM/MIMO · Channel estimation · Signal, image and video processing · Machine learning · Time-series analytics · Electronics testing · Reproducible engineering
 
 ## Contact
 
