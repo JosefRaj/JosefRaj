@@ -8,6 +8,7 @@ I am seeking working-student, internship and graduate opportunities in the Erlan
 
 ## Selected projects
 
+- [Image and Video Compression Laboratory Project](https://github.com/JosefRaj/JosefRaj/tree/main/projects/image-video-compression) — FAU laboratory project in progress; details and shareable material to follow.
 - [OFDM Channel-Estimation Benchmark](https://github.com/JosefRaj/Digital-Communications-DiCo-Lab-Projects/tree/main/ofdm_channel_estimation_benchmark) — seeded QPSK/OFDM multipath experiments comparing LS and LMMSE using BER, EVM and channel NMSE.
 - [Heart-Sound ML Reproducibility](https://github.com/JosefRaj/Undergraduate-Thesis-Heart-Sound-Recordings-Classification-Using-CNN/tree/main/reproducible_pipeline) — tested reconstruction of my B.Sc. thesis workflow with leakage-aware splitting, classical and CNN baselines, metrics and a model card.
 - [Industrial Sensor Analytics](https://github.com/JosefRaj/industrial-sensor-analytics) — Python, Pandas and SQLite pipeline for validated synthetic sensor data, time-aware anomaly evaluation and engineering reports.
