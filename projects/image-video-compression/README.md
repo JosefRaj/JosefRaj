@@ -1,6 +1,6 @@
 # Image and Video Compression Laboratory Project
 
-**Status: in progress.** This repository snapshot documents ongoing work for the Image and Video Compression laboratory at FAU Erlangen-Nürnberg. It contains working components, course scaffolding and unfinished parts; it is not a complete video codec.
+**Status: in progress — completed through approximately the middle of laboratory session 5.** This repository snapshot documents ongoing work for the Image and Video Compression laboratory at FAU Erlangen-Nürnberg. It contains working components, course scaffolding and unfinished parts; it is not a complete video codec.
 
 ## Work in the current snapshot
 
